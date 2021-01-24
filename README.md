@@ -31,8 +31,8 @@ When running the program, 7 tests will be run, which are the followings:
 
 --Test exiting 
 
-After that, user is asked to enter their PIN number to interact with the ATM. I created test ATM with **10,000 KRW** cash bin and a test user who is a student and has 2 accounts, **Savings** and **Stipend**, with **15,000 KRW** and **20,000 KRW**, respectively. 
-Please use the password **1234** to to login.
+After that, user is asked to enter their PIN number to interact with the ATM. I created a test ATM with **10,000 KRW** cash bin and a test user who is a student and has 2 accounts, **Savings** and **Stipend**, with **15,000 KRW** and **20,000 KRW**, respectively. 
+Please use the password **1234** to login.
  
 
  ### Running the Program
