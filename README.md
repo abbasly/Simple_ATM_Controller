@@ -3,13 +3,11 @@
 
  ### Cloning the repo
 
-This project can be cloned by entering:
+This project can be cloned by entering
 
 ```console
 https://github.com/abbasly/Simple_ATM_Controller.git
 ```
-
-git clone ...
 
 in to your terminal.
 
