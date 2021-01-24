@@ -17,6 +17,7 @@ The file was written and tested in Python 3.8.2.
  ### About the ATM
 
 When running the program, 7 tests will be run, which are the followings:
+
 --Test Invalid Message on Empty ATM
 
 --Test Valid ATM Check
